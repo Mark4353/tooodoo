@@ -21,7 +21,7 @@ const InfoItem = styled.div`
 export default function Info({ total, completed }) {
   return (
     <InfoWrapper>
-      <InfoItem>Всього завдань: {total}</InfoItem>
+      <InfoItem>Всього: {total}</InfoItem>
       <InfoItem>Виконано: {completed}</InfoItem>
     </InfoWrapper>
   );

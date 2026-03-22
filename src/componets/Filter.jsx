@@ -18,7 +18,7 @@ export default function Filter({ value, onChange }) {
     <FilterWrapper>
       <FilterInput
         type="text"
-        placeholder="Фільтр завдань"
+        placeholder="Фільтр"
         value={value}
         onChange={e => onChange(e.target.value)}
       />

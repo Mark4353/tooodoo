@@ -74,7 +74,7 @@ export default function TodoList({ todos, onToggle, onDelete }) {
             onChange={() => onToggle(todo.id)}
           />
           <Text completed={todo.completed}>{todo.text}</Text>
-          <DeleteButton onClick={() => handleDelete(todo.id)}>Delete</DeleteButton>
+          <DeleteButton onClick={() => handleDelete(todo.id)}>Видалити</DeleteButton>
         </Item>
       ))}
     </List>
