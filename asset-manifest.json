@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/reactpr2/static/css/main.31d6cfe0.css",
-    "main.js": "/reactpr2/static/js/main.fba1e0a6.js",
+    "main.js": "/reactpr2/static/js/main.e0a45f82.js",
     "index.html": "/reactpr2/index.html",
-    "main.fba1e0a6.js.map": "/reactpr2/static/js/main.fba1e0a6.js.map"
+    "main.e0a45f82.js.map": "/reactpr2/static/js/main.e0a45f82.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.fba1e0a6.js"
+    "static/js/main.e0a45f82.js"
   ]
 }
